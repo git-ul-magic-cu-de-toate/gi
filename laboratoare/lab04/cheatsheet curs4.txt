@@ -1,0 +1,66 @@
+Curs 4 - cheatsheet
+
+- units - (unitati de masura)
+- limits - 0,0 210,297
+- rectang - 0,0 210,297
+- zoom a (all)
+
+- layere :
+   - contur continua 0.30
+   - axa rosu dash dot 0.0
+   - cote albastru continua 0.0
+   - hasura verde continua 0.0
+   - linii ajutatoare
+
+- dim
+- dim style
+   - new
+   - nume "cota"
+   - arrow size - 2.5
+   - center marks 2.5
+   - job angle 90
+   - text height 2.5
+   - vertical above
+   - aligned with dimension line
+   - fit both text and arrows
+   - draw dim line between ext lines
+   - precision 0
+   - set current
+
+- cha chamfer d 2 2
+- leader
+- annotate leaders modify
+            - arrow size 2.5
+            - textx hight 2.5
+
+- %%d grad
+- %%c diametru
+
+- offset 3 (duplicare)
+- break
+- hasura hatch
+     -> ansi31
+     -> scara 25.0
+     -> angle 90
+
+-> cote 1/2 ( cu un singur varf de sageata ) - explode
+-> PLINE - width (grosime) 1.5 inceput - sfarsit
+     - sageata inceput 0 sfarsit 3
+     - codita sagetii 0.5 inceput + sfarsit
+
+-> ATT attribute
+    - tag B
+    - prompt traseu
+    - default A
+    - text height 5
+
+-> block 
+    - nume traseu
+    - pick point (varful sagetii)
+    - obiecte selectate
+-> insert traseu
+
+- tolerante
+   -> tol
+   -> Sageata cu leader
+    

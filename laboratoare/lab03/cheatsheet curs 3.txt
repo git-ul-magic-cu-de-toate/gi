@@ -1,0 +1,30 @@
+curs gi 19.11.2020
+
+- > layer -> meniu layere -> se pot inchide/deschide, culori diferite etc.
+- > lts - schimba scara de afisare (line type scale) - schimbi factoru;
+- > lineweight (afiseaza grosimea) - vezi bara de stare
+- > drawing template
+- > scale - tastezi sc - pt axa scalam cu 1.1 (. nu ,)
+- > rectang - rec - dreptunghi
+- > copy
+- > rotate (roteste) - pt a fi perfect centrat selectam centrul / mij
+- > PLINE - grosime (de inceput, de sfarsit), lungime
+      | hasurare |   -> daca difera grosimile pot face figuri/forme (de ex sageti)
+- > Hatch - hasura (prescurtare H) - atentie daca dam sa hasuram pe exterior va hasura la infinit si va iesi din program
+          -> pt mai multe piese modificam tipul de hasura (stanga, dreapta, dimensiune etc.)
+
+Layere
+
+------
+Layere pt lab
+
+- > dreptunghiuri
+- > 0
+- > axe
+- > muchii acoperite
+- > contur
+- > linii ajutatoare
+------
+
+
+-> hasura
